@@ -1,18 +1,11 @@
-﻿
-//A normal delegate
-Calculator c = new Calculator(Add);
-c(4, 6);
-c = new Calculator(Mul);
-c(4, 6);
+﻿Func<double, double> square = Square;
+Console.WriteLine($"square : {square(2)}");
 
-static void Add(int a, int b)
-{
-    Console.WriteLine(a+b);
-}
-static void Mul(int a, int b)
-{
-    Console.WriteLine(a * b);
-}
+Func<double, double> cubic = Cubic;
+Console.WriteLine($"cubic : {cubic(2)}");
 
-delegate void Calculator(int x, int y);
 
+static double Square(double x) => Math.Pow(x, 2);
+static double Cubic(double x) => Math.Pow(x, 3);
+static double Two() => 2;
+static void Shox() => Console.WriteLine("hello");
