@@ -1,0 +1,15 @@
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\bin\Debug\net6.0\training-Cshap-10.exe
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\bin\Debug\net6.0\training-Cshap-10.deps.json
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\bin\Debug\net6.0\training-Cshap-10.runtimeconfig.json
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\bin\Debug\net6.0\training-Cshap-10.dll
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\bin\Debug\net6.0\training-Cshap-10.pdb
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\obj\Debug\net6.0\training-Cshap-10.csproj.AssemblyReference.cache
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\obj\Debug\net6.0\training-Cshap-10.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\obj\Debug\net6.0\training-Cshap-10.AssemblyInfoInputs.cache
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\obj\Debug\net6.0\training-Cshap-10.AssemblyInfo.cs
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\obj\Debug\net6.0\training-Cshap-10.csproj.CoreCompileInputs.cache
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\obj\Debug\net6.0\training-Cshap-10.dll
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\obj\Debug\net6.0\refint\training-Cshap-10.dll
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\obj\Debug\net6.0\training-Cshap-10.pdb
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\obj\Debug\net6.0\training-Cshap-10.genruntimeconfig.cache
+D:\dev\dotnet\pluralsight\c-sharp-10-object-oriented-programming\training-Cshap-10\obj\Debug\net6.0\ref\training-Cshap-10.dll
